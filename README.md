@@ -1,3 +1,4 @@
+![logo](https://github.com/justani02/Ananya-Chandraker/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Ananya Chandraker</h1>
 <h3 align="center">Creative & Imaginative || Web Developer || Graphic designer|| Leadership || Enthusiast—>META</h3>
 
