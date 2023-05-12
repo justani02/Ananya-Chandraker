@@ -1,4 +1,5 @@
-![logo](https://github.com/justani02/Ananya-Chandraker/blob/main/github-banner.png)
+![logo](https://github.com/justani02/Ananya-Chandraker/assets/110666634/d281a8a5-a257-44eb-abff-2fe65483398d)
+
 <h1 align="center">Hi 👋, I'm Ananya Chandraker</h1>
 <h3 align="center">Creative & Imaginative || Web Developer || Graphic designer|| Leadership || Enthusiast—>META</h3>
 
