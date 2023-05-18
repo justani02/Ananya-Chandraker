@@ -1,9 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Ananya Chandraker</h1>
 <h3 align="center">Creative & Imaginative || Web Developer || Graphic designer|| Leadership || Enthusiast—>META</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/Ry6p.gif](https://i.gifer.com/Ry6p.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justani02&label=Profile%20views&color=0e75b6&style=flat" alt="justani02" /> </p>
 
@@ -26,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_ani02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ananya chandraker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya chandraker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananya-chandraker-45329322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananya-chandraker-45329322b/" height="30" width="40" /></a>
 <a href="https://instagram.com/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_ani02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ananya chandraker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ananya chandraker" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ananyachandraker3790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ananyachandraker3790" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="just_ani02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/just_ani02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="just_ani02" height="30" width="40" /></a>
 </p>
