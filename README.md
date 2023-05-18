@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Chandraker</h1>
 <h3 align="center">Creative & Imaginative || Web Developer || Graphic designer|| Leadership || Enthusiast—>META</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eb0f2c114445403.603bc566bd64d.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justani02&label=Profile%20views&color=0e75b6&style=flat" alt="justani02" /> </p>
 
